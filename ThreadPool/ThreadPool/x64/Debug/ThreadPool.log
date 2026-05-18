@@ -1,0 +1,7 @@
+﻿  main.cpp
+  test_pool.cpp
+  thread_pool.cpp
+  Generating Code...
+  ThreadPool.vcxproj -> C:\Users\amard\.NET\thread-pool\ThreadPool\x64\Debug\ThreadPool.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
